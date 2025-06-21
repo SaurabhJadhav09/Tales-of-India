@@ -27,8 +27,6 @@ Welcome to **Tales of India**, a Smart Travel Planner web application designed t
 ### ⭐ Tourist Reviews
 - Read honest reviews and ratings from other travelers to help guide your journey.
 
-### 📬 Newsletter Subscription
-- Stay up-to-date with travel trends and featured destinations by subscribing via email.
 
 ---
 
