@@ -2,7 +2,7 @@
 
 Welcome to **Tales of India**, a Smart Travel Planner web application designed to help users explore and plan personalized trips across India’s vibrant and diverse regions. Whether you're a nature lover, history buff, spiritual seeker, or culture explorer — this platform provides an all-in-one digital experience for your travel needs.
 
-“Travel makes one modest. You see what a tiny place you occupy in the world.” - Gustave Flaubert
+
 ---
 
 
