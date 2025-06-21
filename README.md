@@ -1,15 +1,59 @@
-<div align="center">
-	<a href="https://mrjatinchauhan.github.io/tourindia/"><img src="./pictures/tour-india.jpg"></a>
-	<h4>A simple Tourism Website Portfolio which shows travel destinations across various part of Country. This theme is made using Bootstrap features several content sections, a responsive portfolio grid (tourist-places), window modals for each portfolio item, Blogs section and AboutUs Section</h4>
-</div>
+# 🧭 Smart Travel Planner – *Tales of India*
 
-## [Live Preview](https://mrjatinchauhan.github.io/tourindia/)
-[![Tour India Preview](./pictures/welcoming-page.png)](https://mrjatinchauhan.github.io/tourindia/)
-[![Glimpse Preview](./pictures/parts-glimpse.png)](https://mrjatinchauhan.github.io/tourindia/)
+Welcome to **Tales of India**, a Smart Travel Planner web application designed to help users explore and plan personalized trips across India’s vibrant and diverse regions. Whether you're a nature lover, history buff, spiritual seeker, or culture explorer — this platform provides an all-in-one digital experience for your travel needs.
 
-## Wireframe
-![Tour India Wireframe](./pictures/wireframe-pc.png)
+“Travel makes one modest. You see what a tiny place you occupy in the world.” - Gustave Flaubert
+---
 
-## Usage
-After downloading, simply edit the HTML and CSS files included with the template in a code editor to make changes. These are the only files you need to worry about, you can ignore everything else! To preview the changes you make to the code, you can open the `index.html` file in your web browser.
-# Tour-India
+
+## 📌 Features
+
+### 🗺️ Explore Destinations
+- Browse curated travel locations by region: North, Central, South, West, and North-East India.
+- Highlights include states like Kerala, Rajasthan, Goa, Mizoram, Maharashtra, and more.
+
+### 🤖 AI Travel Chatbot
+- Integrated chatbot offers 24/7 assistance for planning trips, getting info, and resolving queries.
+
+### 📅 Season-wise Recommendations
+- Discover travel suggestions based on the best season to visit — from monsoon in Kerala to winter in Rajasthan.
+
+### 📌 Personalized Itineraries
+- Tailored travel plans to match user interests, time, and budget.
+
+### 🚉 Train Booking (IRCTC Integration)
+- Quick access to train booking via IRCTC for easy travel planning.
+
+### ⭐ Tourist Reviews
+- Read honest reviews and ratings from other travelers to help guide your journey.
+
+### 📬 Newsletter Subscription
+- Stay up-to-date with travel trends and featured destinations by subscribing via email.
+
+---
+
+## 🧱 Tech Stack
+
+| Technology | Description |
+|------------|-------------|
+| **HTML5 / CSS3 / JS** | Core frontend technologies |
+| **Bootstrap** | Responsive design |
+| **jQuery** | UI interactions and animations |
+| **FontAwesome / Google Fonts** | Icons and typography |
+| **Custom Chatbot** | Built using JavaScript for real-time interaction |
+| **IRCTC Link** | Redirect integration for official train bookings |
+
+---
+
+## 🔧 Installation & Setup
+
+```bash
+git clone https://github.com/SaurabhJadhav09/Tour-India.git
+cd Tour-India
+open index.html (or use Live Server in VS Code)
+
+📧 Contact
+Saurabh Jadhav
+📧 sidr092003@gmail.com
+🔗 LinkedIn
+🌐 GitHub
